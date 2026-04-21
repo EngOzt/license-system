@@ -1,4 +1,5 @@
 {
-  "status": "pasive",
-  "valid_until": "2035-12-31"
+  "status": "active",
+  "valid_until": "2036-12-31T00:00:00",
+  "disabled": false
 }
