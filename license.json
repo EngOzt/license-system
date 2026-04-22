@@ -1,6 +1,6 @@
 {
   "status": "active",
   "valid_until": "2036-12-31T00:00:00",
-  "disabled": true,
-  "level": "1"
+  "disabled": false,
+  "level": "0"
 }
